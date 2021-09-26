@@ -51,14 +51,21 @@ app.get('/', (req, res) => {
   res.send('Hello, world!');
 });
 
+// anything else
+app.route('*', (req, res) => {
+  res.status(404);
+});
+
 app.use(function errorHandler(error, req, res) {
   let response;
   if (NODE_ENV === 'production') {
     response = { error: 'server error' };
   } else {
+    // eslint-disable-next-line no-console
     console.error(error);
     response = { error };
   }
+
   res.status(500).json(response);
 });
 
