@@ -9,7 +9,7 @@ BEGIN;
     (
       1,
       'kshncodes',
-      '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+      '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
       'Malcolm',
       'Kiano',
       'https://github.com/malcolmkiano',
@@ -21,7 +21,7 @@ BEGIN;
   (
     2,
     'saraquail',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
     'Sara',
     'Mills',
     'https://www.github.com/saraquail',
@@ -32,7 +32,7 @@ BEGIN;
   (
     3,
     'muhiddindc',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
     'Muhiddin',
     'Kurbonov',
     'https://www.github.com/muhiddinsgithub',
@@ -43,7 +43,7 @@ BEGIN;
   (
     4,
     'jacklansing',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
     'Jack',
     'Lansing',
     'https://www.github.com/jacklansing',
@@ -54,7 +54,7 @@ BEGIN;
   (
     5,
     'atwb21786',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
     'Andrew',
     'Burchett',
     'https://www.github.com/atwb21786',
@@ -65,7 +65,7 @@ BEGIN;
   (
     6,
     'jknox24',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$ImuwjTpurOYkeB40Rbx2Z.ANyukF4IEo0yTVMImA36o6TbJKrBxD6',
     'Jordan',
     'Knox',
     'https://www.github.com/jknox24',
@@ -76,7 +76,7 @@ BEGIN;
   (
     7,
     'demouser',
-    '$2a$10$F4Yqsb9/D.pUEY0cXoWM3O0CmTRQzp4peqykZSIBHj8xJaxoY6XSS',
+    '$2a$10$AjMw8Ie1nqgmwSkCBDnxGe.ub9/kSgdPuxl3AWPOnL7PkcG7yWPhy',
     'Demo',
     'User',
     'https://www.github.com/demouser',
