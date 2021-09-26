@@ -3,6 +3,7 @@ module.exports = {
   CLIENT_ORIGIN: [
     /^https:\/\/(www.)?devlft.com$/,
     /^https:\/\/dev-lft.vercel.app$/,
+    /^.*.kshncodes.vercel.app/,
     /^http:\/\/localhost(:[0-9]+)?$/
   ],
   NODE_ENV: process.env.NODE_ENV || 'development',
