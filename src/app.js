@@ -52,7 +52,7 @@ app.get('/', (req, res) => {
 
 // anything else
 app.route('*', (req, res) => {
-  res.status(404).end();
+  res.status(404);
 });
 
 app.use(function errorHandler(error, req, res) {
