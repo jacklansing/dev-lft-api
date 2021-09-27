@@ -11,6 +11,9 @@ const morganOption = NODE_ENV === 'production' ? 'tiny' : 'common';
 
 app.use(morgan(morganOption));
 app.use(helmet());
+
+// cors enabling
+app.options(cors());
 app.use(cors());
 
 // import routers
